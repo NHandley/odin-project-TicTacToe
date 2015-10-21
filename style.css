@@ -1,0 +1,20 @@
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 320px;
+}
+
+.square {
+	width: 100px;
+	height: 100px;
+	float: left;
+	border: 1px solid;
+}
+
+.player1 {
+	background: blue;
+}
+
+.player2 {
+	background: red;
+}
