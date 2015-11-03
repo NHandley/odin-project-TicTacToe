@@ -1,6 +1,10 @@
+body {
+	background-color: #FCEBB6;
+}
+
 .container {
 	width: 320px;
-	margin: auto;
+	margin: 200px auto;
 }
 
 .square {
@@ -16,4 +20,10 @@
 
 .player2 {
 	background: red;
+}
+
+h1 {
+	font-family: 'Rock Salt', cursive;
+	margin: auto;
+	text-align: center;
 }

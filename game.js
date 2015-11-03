@@ -33,9 +33,10 @@
 		}
 
 		//Condition for win or lose
-		for (var i = ..; i >= 0; i++) {
-			...
-		};
+		
+		/*for (var i = ..; i >= 0; i++) {
+			
+		}*/
 	})
 
 })();
