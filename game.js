@@ -42,7 +42,7 @@
 
 
 		//Condition for win or lose, for when dynamic
-		
+
 /*		for (var i = 0; i < 9; i++) {
 			var cell = $("#square-" + i),
 				cellState, firstNeighbour, secondNeighbour;
@@ -81,11 +81,11 @@
 
 		if($('#square-0').hasClass('player1') && $('#square-1').hasClass('player1') && $('#square-2').hasClass('player1')){
 
-			alert('win! winner is player 1!');
+			alert('Player One Wins!');
 
 		}
 		else if($('#square-0').hasClass('player2') && $('#square-1').hasClass('player2') && $('#square-2').hasClass('player2')){
-			alert('win! winner is player 2!');
+			alert('Player Two Wins!');
 
 		}
 
@@ -97,11 +97,11 @@
 
 		if($('#square-3').hasClass('player1') && $('#square-4').hasClass('player1') && $('#square-5').hasClass('player1')){
 
-			alert('win! winner is player 1!');
+			alert('Player One Wins!');
 
 		}
 		else if($('#square-3').hasClass('player2') && $('#square-4').hasClass('player2') && $('#square-5').hasClass('player2')){
-			alert('win! winner is player 2!');
+
 
 		}
 
@@ -113,11 +113,11 @@
 
 		if($('#square-6').hasClass('player1') && $('#square-7').hasClass('player1') && $('#square-8').hasClass('player1')){
 
-			alert('win! winner is player 1!');
+			alert('Player One Wins!');
 
 		}
 		else if($('#square-6').hasClass('player2') && $('#square-7').hasClass('player2') && $('#square-8').hasClass('player2')){
-			alert('win! winner is player 2!');
+			alert('Player Two Wins!');
 
 		}
 
@@ -129,11 +129,11 @@
 
 		if($('#square-0').hasClass('player1') && $('#square-3').hasClass('player1') && $('#square-6').hasClass('player1')){
 
-			alert('win! winner is player 1!');
+			alert('Player One Wins!');
 
 		}
 		else if($('#square-0').hasClass('player2') && $('#square-3').hasClass('player2') && $('#square-6').hasClass('player2')){
-			alert('win! winner is player 2!');
+			alert('Player Two Wins!');
 
 		}
 
@@ -145,12 +145,12 @@
 
 		if($('#square-1').hasClass('player1') && $('#square-4').hasClass('player1') && $('#square-7').hasClass('player1')){
 
-			alert('win! winner is player 1!');
+			alert('Player One Wins!');
 
 		}
 		else if($('#square-1').hasClass('player2') && $('#square-4').hasClass('player2') && $('#square-7').hasClass('player2')){
-			alert('win! winner is player 2!');
-	
+
+
 		}
 
 		//Third vertical
@@ -161,11 +161,11 @@
 
 		if($('#square-2').hasClass('player1') && $('#square-5').hasClass('player1') && $('#square-8').hasClass('player1')){
 
-			alert('win! winner is player 1!');
+			alert('Player One Wins!');
 
 		}
 		else if($('#square-2').hasClass('player2') && $('#square-5').hasClass('player2') && $('#square-8').hasClass('player2')){
-			alert('win! winner is player 2!');
+
 
 		}
 
@@ -177,11 +177,11 @@
 
 		if($('#square-0').hasClass('player1') && $('#square-4').hasClass('player1') && $('#square-8').hasClass('player1')){
 
-			alert('win! winner is player 1!');
-			
+			alert('Player One Wins!');
+
 		}
 		else if($('#square-0').hasClass('player2') && $('#square-4').hasClass('player2') && $('#square-8').hasClass('player2')){
-			alert('win! winner is player 2!');
+			alert('Player Two Wins!');
 		}
 
 		//Second vertical
@@ -192,17 +192,17 @@
 
 		if($('#square-2').hasClass('player1') && $('#square-4').hasClass('player1') && $('#square-6').hasClass('player1')){
 
-			alert('win! winner is player 1!');
-			
+			alert('Player One Wins!');
+
 		}
 		else if($('#square-2').hasClass('player2') && $('#square-4').hasClass('player2') && $('#square-6').hasClass('player2')){
-			alert('win! winner is player 2!');
-			
+			alert('Player Two Wins!');
+
 		}
 
 	}
 
-	
+
 
 
 
